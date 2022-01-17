@@ -32,7 +32,7 @@ Our content policies apply to your Product's content, including any ads it shows
 user-generated content it hosts or links to. Further, they apply to any content from your developer
 account that is publicly displayed in Chrome Web Store, including your developer name and the
 landing page of your listed developer website. Products that include content that may not be
-suitable for all ages should be marked "Mature" on the [Developer Dashboard][mature-content].
+suitable for all ages should be marked "Mature" on the [Developer Dashboard][mature-content].error
 
 Sexually Explicit Material:
 
